@@ -1,2 +1,2 @@
 # Doge Clan
-Welcome! We are a small group of people making a software known as FreeExecutor. It gives you the ability to execute your own JavaScript powered shell anytime anywhere. It even works in other websites as a bookmarklet! It comes with loads of features and is highly flexible!
+Welcome! We are a small group of people making a software known as FreeExecutor and various other components to complement it. While it is still deep in development, it can start to load custom programs and provide a development environment, anywhere. It can be ran as a bookmarklet AND it can be ran as a seperate page.
